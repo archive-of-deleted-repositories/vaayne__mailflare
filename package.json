@@ -78,7 +78,7 @@
     "drizzle-orm": "^0.45.2",
     "lucide-react": "^1.16.0",
     "mimetext": "^3.0.28",
-    "nanoid": "^5.1.11",
+    "nanoid": "^5.1.16",
     "next": "16.2.6",
     "postal-mime": "^2.7.4",
     "react": "^19.1.7",
